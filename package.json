@@ -1,0 +1,20 @@
+{
+  "name": "bill.com",
+  "version": "1.0.0",
+  "description": "Bill.com API node.js client library.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedenardi/node-bill.com.git"
+  },
+  "author": "Sanders DeNardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sedenardi/node-bill.com/issues"
+  },
+  "homepage": "https://github.com/sedenardi/node-bill.com#readme",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "superagent": "^1.6.1"
+  }
+}
