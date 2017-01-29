@@ -1,6 +1,6 @@
 'use strict';
 
-var BDCRequest = require('lib/BDCRequest');
+var BDCRequest = require('./lib/BDCRequest');
 
 var LOGIN_URL = 'https://api.bill.com/api/v2/';
 
